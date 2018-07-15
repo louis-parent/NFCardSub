@@ -3,6 +3,10 @@
 ## Description
 This program is project for the ISN class. It work on Raspberry Pi with Explore-NFC module. It read NFC items to reconize a subscriber and permite him to pay his enter.
 
+## Download
+
+You can download the final version [here](http://files.louis-parent.fr/software/NFCardSub/).
+
 ## Usage
 There are three files and an example Database :
 * main.py, it's the  console  version of the program, you can use:
